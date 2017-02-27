@@ -1,5 +1,5 @@
 <?php
 phpinfo();
-echo "Sample PHP File";
+echo "Sample PHP Files";
 echo 
 ?>
